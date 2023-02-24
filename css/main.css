@@ -2,6 +2,10 @@
   .section-title {
     font-size: 48px;
   }
+
+  .banner {
+    width: 60%;
+  }
 }
 
 @media (max-width: 992px) {
@@ -15,6 +19,11 @@
   .section-title {
     font-size: 24px;
     line-height: 30px;
+  }
+
+  .banner {
+    margin-top: 20px;
+    width: 100%;
   }
 
   .section-subtitle {
